@@ -94,7 +94,7 @@ make
 <h3>4. Execução:</h3>
 <p>Após o código ser carregado na placa, o programa será iniciado automaticamente e controlará os LEDs e o display OLED conforme descrito.</p>
 
-<h2>Imagens</h2>
+<h2>Imagem</h2>
 <p align="center">
     <img src="https://github.com/MarianaBarretto/Conversores-analogico-digitais-ADC-/blob/main/Imagens/BitDogLab.jpeg" alt="Projeto com RP2040 e Display OLED SSD1306" />
 </p>
