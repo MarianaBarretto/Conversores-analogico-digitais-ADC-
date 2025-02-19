@@ -100,7 +100,7 @@ make
 </p>
 
 <h3>Vídeo de Demostração</h3>
-<p>Google Drive: AQUI</p>
-<p>YouTube: AQUI</p>
+<p>Google Drive: https://drive.google.com/file/d/1I-G6Oe6r8eKiHoGKm8ZxC9vDHufo3SK4/view?usp=sharing</p>
+<p>YouTube: https://youtu.be/tdBvdSxdKlI</p>
 
 <h4>Autor: <strong>Mariana Barretto</strong></h4>
