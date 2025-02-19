@@ -96,7 +96,7 @@ make
 
 <h2>Imagens</h2>
 <p align="center">
-    <img src="LINK DA IMAGEM AQUI" alt="Projeto com RP2040 e Display OLED SSD1306" />
+    <img src="https://github.com/MarianaBarretto/Conversores-analogico-digitais-ADC-/blob/main/Imagens/BitDogLab.jpeg" alt="Projeto com RP2040 e Display OLED SSD1306" />
 </p>
 
 <h3>Vídeo de Demostração</h3>
